@@ -19,6 +19,8 @@ Open het ERD en voer de volgende aanpassingen door:
 Maak screenshots van je nieuwe ERD en voeg deze toe aan je Word document.
 Vertel ook wat je precies hebt gedaan.
 
+![ERD Dansschool](https://github.com/SteijlenGLR/UNIVERS2_Herkansing/blob/main/erd.png?raw=true)
+
 # Opdracht 3 - Database beheer
 Maak alle tabellen uit het ERD nu aan in jouw MySQL Database op de school webserver (Plesk).
 Maak hiervoor desnoods een nieuwe database (dit kan je alleen op school doen!), en benader deze dan in https://pma.ict-lab.nl om de tabellen aan te maken.
