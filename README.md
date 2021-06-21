@@ -19,6 +19,9 @@ Open het ERD en voer de volgende aanpassingen door:
 Maak screenshots van je nieuwe ERD en voeg deze toe aan je Word document.
 Vertel ook wat je precies hebt gedaan.
 
+
+Mocht je het ERD in Navicat formaat om wat voor reden niet kunnen openen, dan kan je het ERD uiteraard ook overnemen in de tool naar jouw keuze en dan in die tool zelf ook de aanpassingen maken en hier de screenshots van maken. De basis van het ERD ziet er als volgt uit:
+
 ![ERD Dansschool](https://github.com/SteijlenGLR/UNIVERS2_Herkansing/blob/main/erd.png?raw=true)
 
 # Opdracht 3 - Database beheer
